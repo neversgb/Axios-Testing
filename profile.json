@@ -4,11 +4,11 @@
     "data": [
         {
             "profile": {
-                "id_member": "{{$randomUUID}}",
-                "name": "{{$randomFullName}}",
-                "address": "{{$randomStreetAddress}}",
-                "no_hp": "{{$randomPhoneNumber}}",
-                "agency": "{{$randomUserName}}"
+                "id_member": "1234567890",
+                "name": "Alejandro Vanrgas ",
+                "address": "Mexico",
+                "no_hp": "00112233",
+                "agency": "Los Vaqueros"
             },
             "total_properti": 500,
             "terjual": 59,
