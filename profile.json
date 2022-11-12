@@ -6,9 +6,22 @@
             "profile": {
                 "id_member": "1234567890",
                 "name": "Alejandro Vanrgas ",
-                "address": "Mexico",
-                "no_hp": "00112233",
-                "agency": "Los Vaqueros"
+                "profilepicture":"https://static.wikia.nocookie.net/callofduty/images/b/b9/Alejandro_Vargas_Infobox_MWII.png/revision/latest?cb=20221021154847",
+                "rating":"3.5",
+                "agency_name":"Shadow Company",
+                "agency_profilepicture":"https://static.wikia.nocookie.net/callofduty/images/d/d0/SpadeLogo_ShadowCompany_MW.png/revision/latest?cb=20200815082456".
+                "address": "Mexico 123",
+                "email":"Alejandro_SC@Los-Vaqueros.com",
+                "website":"LV-SC.com",
+                "contactname":"Ale. Vanrgas",
+                "NPWP":"1231",
+                "Provinsi":"DKI jakarta",
+                "Kota":"Jakata pusat",
+                "Kecamatan":"Bojongsoang",
+                "kelurahan":"Tebet",
+                "kodepos":"19234",
+                "notelp1":"0011",
+                "notelp2":"2233"
             },
             "total_properti": 500,
             "terjual": 59,
