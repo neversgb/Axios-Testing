@@ -5,6 +5,7 @@
         {
             "profile": {
                 "id_member": "1234567890",
+                "berapatahun":"10",
                 "name": "Alejandro Vanrgas ",
                 "profilepicture":"https://static.wikia.nocookie.net/callofduty/images/b/b9/Alejandro_Vargas_Infobox_MWII.png",
                 "rating":"3.5",
