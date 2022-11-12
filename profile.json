@@ -1,0 +1,18 @@
+{
+    "code":200,
+    "message": "Unit Penjualan telah berhasil diambil",
+    "data": [
+        {
+            "profile": {
+                "id_member": "{{$randomUUID}}",
+                "name": "{{$randomFullName}}",
+                "address": "{{$randomStreetAddress}}",
+                "no_hp": "{{$randomPhoneNumber}}",
+                "agency": "{{$randomUserName}}"
+            },
+            "total_properti": 500,
+            "terjual": 59,
+            "unit_available": 20
+        }
+    ]
+}
